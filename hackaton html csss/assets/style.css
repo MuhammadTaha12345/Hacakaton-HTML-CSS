@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn{
+    margin: 5px;
+    color: white;
+}
+.navbar-brand{
+color: white;
+}
+.fa-question-circle{
+    margin-top: 15px;
+}
+.navbar{
+    background-color: rgb(23, 90, 189);
+    color: white;
+}
+.btn-outline-success{
+    background-color: white;
+    color:rgb(23, 90, 189) ;
+    border: 0;
+}
+.carousel-item{
+    height: 400px;
+
+}
+.heading{
+    color: white;
+    position: absolute;
+    top: 10px;
+    width: 350px;
+    margin-left: 100px;
+    font-style: oblique;
+    font-size: 42px;
+}
+.para{
+    position: absolute;
+    top: 105px;
+    font-size: 22px;
+} 
+.btn-1{
+    position: absolute;
+    top: 145px;
+    left:100px;
+    background-color: rgb(23, 90, 189);
+    border-radius: 8px;
+    color: white;
+    width: 205px;
+    height: 50px;
+    border: none;
+}
